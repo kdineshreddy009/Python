@@ -10,3 +10,5 @@
 
  - use Pillow library for image processing
  - sample inputs and outputs for an image tiled 2 times (both horizontally and vertically)
+
+          https://imgur.com/a/e3Bjulh
